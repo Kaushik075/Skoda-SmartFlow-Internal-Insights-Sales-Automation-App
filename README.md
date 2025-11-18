@@ -62,3 +62,5 @@ Legacy Excel/manual workflows led to:
 - Delivers actionable insights to **sales and marketing** while making data handling effortless and secure.
 - Consulting-style engagement: documentation and code prove end-to-end delivery, not just concepts.
 
+[SKODA SMARTFLOW – AI ENABLED AUTOMATION.pdf](https://github.com/user-attachments/files/23601322/SKODA.SMARTFLOW.AI.ENABLED.AUTOMATION.pdf)
+
