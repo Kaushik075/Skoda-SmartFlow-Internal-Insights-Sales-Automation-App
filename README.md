@@ -7,7 +7,7 @@ _Built as an interview assessment for Mahavir Group (Skoda Division)_
 
 ## Executive Summary
 
-**Skoda SmartFlow is an internal insights application and prototype end-to-end data warehouse and automation system,** designed for Mahavir Skoda’s CEO, IT Head, and leadership team. With one-click refresh, the app delivers instant, real-time business insights, enabling management to make decisions with full operational transparency.
+**Skoda SmartFlow is an internal insights application and prototype end-to-end data warehouse and automation system,** built with **Readdy AI** designed for Mahavir Skoda’s CEO, IT Head, and leadership team. With one-click refresh, the app delivers instant, real-time business insights, enabling management to make decisions with full operational transparency.
 
 Built as a consulting demonstration, SmartFlow empowers sales and marketing teams to capture, process, and manage all dealership leads digitally—with minimal manual effort and a secure backend database. The system streamlines lead qualification, interactions, and reporting, helping reduce turnaround time and operational errors.
 
@@ -39,7 +39,7 @@ Legacy Excel/manual workflows led to:
 
 ## Key Impacts
 
-- 96% reduction in reporting delay (24 hours → <1 hour)
+- Reduction in reporting delay (24 hours → <1 hour)
 - 16–24 manual hours saved daily across teams
 - 90% reduction in data entry errors
 - Instant visibility for leadership—insights on demand
