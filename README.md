@@ -30,7 +30,7 @@ Legacy Excel/manual workflows led to:
 
 ## Core Deliverables
 
-- **Prototype Link:** https://readdy.link/preview/b53953dd-d54f-42c1-b9c5-d2a24de47959/3268489
+- **Prototype Link:**(https://skoda-smartflow.vercel.app/)
 - **System Architecture:** 3-layer MySQL data warehouse (Bronze/Silver/Gold) with modular ETL
 - **Full Automation:** n8n & OpenAI-driven lead management, calendar sync, and workflow alerts
 - **Dashboards:** Power BI templates for live KPIs
